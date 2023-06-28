@@ -36,8 +36,18 @@ I want to be a frontend developer. I have an analytical mind, which will certain
 I want to obtain a position as a Junior Frontend Developer
 
 ---
+## **CODE EXAMPLE**
+---
+```
+
+```
+
+---
 ## **EXPERIENCE**
 ---
+
+I created Curriculum Vitae using Markdown sintaxis
+https://github.com/UssTa/rsschool-cv.git
 
 ---
 ## **EDUCATION**
