@@ -18,8 +18,36 @@ Discord: *tatyanka_u*
 ---
 ## **SKILLS**
 ---
+### *__Languages__* 
+* __Russian__ - Native
+* __English__ - B1/B2
+
+
 
 ---
 ## **PROFILE**
 ---
-I want to be a frontend developer. I have an analytical mind, which will certainly help me in my studies. I like to learn new things and improve my knowledge
+I want to be a frontend developer. I have an analytical mind, which will certainly help me in my studies. I like to learn new things and improve my knowledge  
+
+---
+## **OBJECTIVE**
+---
+I want to obtain a position as a Junior Frontend Developer
+
+---
+## **EXPERIENCE**
+---
+
+---
+## **EDUCATION**
+---
+*__2010-2015 Belarusian State Pedagogical Institute named after M. Tank__*
+   
+Specialty: Psychology  
+*University Degree*
+
+
+*__2004-2007 Belarusian State Academy of Arts__*  
+
+Specialty: Design of interiors and small architectural forms  
+*Incomplete University Degree (3 years)*
