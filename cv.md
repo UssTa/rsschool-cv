@@ -46,8 +46,7 @@ I want to obtain a position as a Junior Frontend Developer
 ## **EXPERIENCE**
 ---
 
-I created Curriculum Vitae using Markdown sintaxis
-https://github.com/UssTa/rsschool-cv.git
+I created [Curriculum Vitae](https://github.com/UssTa/rsschool-cv.git) using Markdown sintaxis 
 
 ---
 ## **EDUCATION**
