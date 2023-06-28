@@ -1,6 +1,7 @@
 # **TATYANA USS**
 
-![My photo](images/myPhoto.jpg)
+<img src="images/myPhoto.jpg" alt="My photo" width="30%"/>
+
 
 > I hope you feel things you’ve never felt before. I hope you meet people who have a different point of view. I hope you live a life you’re proud of, and if you’re not, I hope you have the courage to start over again.  
 *― F. Scott Fitzgerald*
