@@ -12,7 +12,7 @@
 ### *__Date of birth__*  
 15.11.1986
 ### *__Contacts__* 
-Address: Minsk, Belarus  
+Location: Minsk, Belarus  
 E-mail: *usstatyanka@gmail.com*  
 Discord: *tatyanka_u*
 
@@ -23,12 +23,21 @@ Discord: *tatyanka_u*
 * __Russian__ - Native
 * __English__ - B1/B2
 
+### *__Graphic editors__*
+* __Photoshop__
+* __CorelDraw__
 
+### *__Programming skills__*
+* __HTML__ (in progress)
+* __CSS__ (in progress)
+* __JS__ (in progress)
+* __Git__ 
+* __Markdown__ 
 
 ---
 ## **PROFILE**
 ---
-I want to be a frontend developer. I have an analytical mind, which will certainly help me in my studies. I like to learn new things and improve my knowledge  
+I want to be a frontend developer. I have an analytical mind, which will certainly help me in my studies. I like to learn new things and improve my knowledges  
 
 ---
 ## **OBJECTIVE**
@@ -39,7 +48,16 @@ I want to obtain a position as a Junior Frontend Developer
 ## **CODE EXAMPLE**
 ---
 ```
+const eggs = 1;
+const milk = 700;
+const flour = 400;
 
+if (eggs >= 3 && milk >= 500 && flour >= 280) {
+    console.log ('You can cook pancakes');
+}
+else {
+    console.log ("You don't have enough ingredients to make pancakes")
+}
 ```
 
 ---
