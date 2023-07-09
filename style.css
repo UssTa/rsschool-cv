@@ -1,0 +1,235 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url(assets/fonts/Ubuntu-Light.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: Ubuntu;
+  src: url(assets/fonts/Ubuntu-Bold.ttf);
+  font-weight: 700;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'Ubuntu';
+  font-size: 18px;    
+}
+
+.photo {
+  float: left;
+}
+.name {
+  width: 70%;
+  float: right;
+  margin-top: 80px;
+  margin-left: 50px;
+}
+.group::before,
+.group::after {
+  content: "";
+  display: table;
+}
+.group::after {
+  clear: both;
+}
+.group {
+  clear: both;
+  zoom: 1;
+}
+img{
+  border: 1px solid #8cb4ac;
+  border-radius: 20px;
+  width: 320px;
+}
+h1 {
+  margin-bottom: 0;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  font-size: 70px;
+  font-weight: 300;
+  background-color:#8cb4ac;    
+}
+.header-section p {
+  margin-top: 0;
+  padding-left: 20px;
+  font-size: 35px;
+}
+html {
+  scroll-behavior: smooth; 
+}
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  line-height: 40px;
+  background-color:#456868;
+  border-radius: 10px;
+}
+.nav-link {
+  font-size: 20px;
+  padding: 5px 20px;
+  border-radius: 10px;
+  transition: .3s;
+}
+.nav-item a {
+  color: #aac0c0;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+.nav-item a:hover {
+  color: #a98238;
+  font-weight: 700;
+  background-color: #aac0c0;
+}
+.aside {
+  float:left;
+  width: 320px;
+  
+  padding-left: 15px;
+  background-color:#8cb4ac;
+  border-radius: 10px;
+}
+.aside li {
+  list-style: none;
+  margin-top: 10px;  
+}
+.aside p,ul {
+  padding-left: 5px; 
+}
+.main-content {
+  float:right;
+  width: 70%;
+}
+.main-content li {
+  list-style: circle;   
+}
+.main-content ul {
+  padding-left: 20px;
+}
+.section-title {
+  text-transform: uppercase;
+  padding-left: 10px;
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 40px;
+  font-size: 20px;  
+  background-color:#8cb4ac;
+  color: #355252;
+  border-radius: 10px 0 0 10px;  
+}
+.aside .section-title {
+  background-color:#456868;
+  color:#aac0c0;
+}
+
+.line {
+  border-bottom: 3px #456868 solid;
+}
+.bold {
+  font-weight: 700;
+}
+.courses li{
+  list-style: none;
+}
+.code {
+  margin-top: 0;
+  padding-left: 20px;
+  color: #456868;
+}
+.textcols {
+  white-space: nowrap;
+  padding-left: 20px;
+}
+.textcols-item {
+  white-space: normal;
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+}
+.textcols .textcols-item:first-child {
+  margin-right: 4%;
+}
+.experience {
+  padding-left: 20px;
+}
+.experience a {
+  color: #2f4f4f;
+  padding: 5px;
+  line-height: 30px;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+.experience a:hover {
+  color: #a98238;
+  font-weight: 700;
+  background-color: #aac0c0;
+}
+.course-logo {
+  float: left;  
+}
+.course-logo img {
+  width: 300px;
+  border-radius: 0;
+  padding: 10px;
+}
+.footer img {
+  border: none;  
+}
+.icon {
+  width: 64px;
+}
+.github-link img {
+  padding: 20px auto;
+  float: left;
+}
+.github-link {
+  float: right;
+  color:#8cb4ac;
+}
+.github-link a {
+  color:#8cb4ac;
+  padding: 30px;
+  margin:auto;
+  border-radius: 10px;    
+  text-decoration: none;
+  font-size: 30px;
+  transition: color 0.5s;
+  float: left;
+}
+.github-link a:hover {
+  color: #456868;
+  font-weight: 700;
+  border: 1px #d5e1e1 solid;
+  background-color:#d5e1e1;    
+}
+.course-logo a:hover img {
+  width: 320px;
+  margin-left: 0;
+  border: 1px #d5e1e1 solid;
+  background-color:#d5e1e1;
+  border-radius: 10px; 
+}
+.container {  
+  max-width: 1440px;
+  margin: 0 auto;    
+}
+.main .container {
+  border:2px #8cb4ac solid;
+  border-radius: 10px;
+}
+.header .container {
+  border-bottom:none;
+}
+.footer .container {
+  background-color:#456868;
+  border-radius: 10px;
+  color:#aac0c0;
+}
